@@ -9,6 +9,7 @@ Un pequeño trabajo de Git y GitHub en Platzi
 * Los temas son apropiados 
 * No es muy complejo y se entiende facilmente
 * Creado por el increible Platzi Team
+* Inluye varios ejemplos e linux y Mac.
 
 ## Algo para cambiar al curso... 📋
 >Pienso que lo mas apropiado para este curso seria actualizarlo con la nueva interfaz de Github y agregar los nuevos comandos que existen en Git, con el objetivo de estar mas actualizados con la industria. 
